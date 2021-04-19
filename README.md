@@ -1,5 +1,5 @@
 # Student-Marks-Reading [Project]  
-- This project is for Cyprus international University, it is developed as web based|Application with using GitHub and agile development and management method - (Kanban Methodology). We have used [Asana] projected management tool for our team management and built-in Kanban board in [GitHub] for our task manaagement, we also synchronized GitHub with Asana linked and compacted using [Unito].
+- This project is for Cyprus international University, it is developed as web based|Application with using GitHub and agile development and management method - (Kanban Methodology). We have used [Asana] projected management tool for our team management and built-in Kanban board in [GitHub] for our task management, we also synchronised GitHub with Asana linked and compacted using [Unito].
 
 - This project is of course Software Engineering | (CMPE314), JSON File Reading for student marks. 
 
