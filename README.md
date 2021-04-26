@@ -8,3 +8,4 @@
 - We used php, json, html5, css, and js as our programming languages for this project, as for efficent work-flow and responsive outcomes we have used two frameworks for our project as well, i.e; Laravel 8, and Bootstrap 4.
 
 - We are using Xampp as our local server and the computer local-database hub. 
+
