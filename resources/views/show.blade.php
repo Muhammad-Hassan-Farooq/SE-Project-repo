@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,7 +28,7 @@
         <th>University ID</th>
         <th>Name</th>
         <th>Surname</th>
-         <!--<th>Gender</th> -->
+         <th>Gender</th>
            <th>MidTerm Marks</th>
              <th>FinalTerm Marks</th>
                <th>Project Marks</th>
@@ -32,7 +40,7 @@
         <td>{{$items['id']}}</td>
         <td>{{$items['name']}}</td>
         <td>{{$items['surname']}}</td>
-            <!--<td>{{$items['gender']}}</td> -->
+            <td>{{$items['gender']}}</td>
              <td>{{$items['mmarks']}}</td>
         <td>{{$items['fmarks']}}</td>
             <td>{{$items['pmarks']}}</td>
